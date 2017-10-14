@@ -1,0 +1,16 @@
+.yellow, .gray{/*tienen las mismas propiedades asi que se unen */
+	height: 100px;
+	margin: 10px;
+	padding: 10px;
+}
+
+
+.yellow{
+	background-color: yellow;
+	
+}
+.gray{
+	background-color: #655C5C;
+	color:white;
+
+}
